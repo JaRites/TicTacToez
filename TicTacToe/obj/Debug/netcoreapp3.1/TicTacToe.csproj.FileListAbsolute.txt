@@ -1,0 +1,15 @@
+C:\Users\Lenovo Y430P\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.exe
+C:\Users\Lenovo Y430P\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.deps.json
+C:\Users\Lenovo Y430P\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.json
+C:\Users\Lenovo Y430P\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.runtimeconfig.dev.json
+C:\Users\Lenovo Y430P\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\Lenovo Y430P\source\repos\TicTacToe\TicTacToe\bin\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\Lenovo Y430P\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\Lenovo Y430P\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.Form1.resources
+C:\Users\Lenovo Y430P\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.GenerateResource.cache
+C:\Users\Lenovo Y430P\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfoInputs.cache
+C:\Users\Lenovo Y430P\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.AssemblyInfo.cs
+C:\Users\Lenovo Y430P\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Y430P\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.dll
+C:\Users\Lenovo Y430P\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.pdb
+C:\Users\Lenovo Y430P\source\repos\TicTacToe\TicTacToe\obj\Debug\netcoreapp3.1\TicTacToe.genruntimeconfig.cache
