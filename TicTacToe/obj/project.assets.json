@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo Y430P\\.nuget\\packages\\": {}
+    "C:\\Users\\rites\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo Y430P\\source\\repos\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "projectUniqueName": "C:\\Users\\rites\\source\\repos\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
       "projectName": "TicTacToe",
-      "projectPath": "C:\\Users\\Lenovo Y430P\\source\\repos\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
-      "packagesPath": "C:\\Users\\Lenovo Y430P\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo Y430P\\source\\repos\\TicTacToe\\TicTacToe\\obj\\",
+      "projectPath": "C:\\Users\\rites\\source\\repos\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "packagesPath": "C:\\Users\\rites\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rites\\source\\repos\\TicTacToe\\TicTacToe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lenovo Y430P\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rites\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

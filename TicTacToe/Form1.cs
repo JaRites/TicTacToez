@@ -15,17 +15,9 @@ namespace TicTacToe
         bool turn = true;
         byte turn_count = 0;
 
-
-
-
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void btnTL_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void closeProgramToolStripMenuItem_Click(object sender, EventArgs e)
@@ -98,7 +90,6 @@ namespace TicTacToe
         {
             try
             {
-
                 foreach (Control c in Controls)
                 {
                     Button b = (Button)c;
@@ -106,9 +97,7 @@ namespace TicTacToe
                 }
             }
             catch { }
-
         }
-
         private void tryAgainToolStripMenuItem_Click(object sender, EventArgs e)
         {
             turn = true;
@@ -116,7 +105,6 @@ namespace TicTacToe
 
             try
             {
-
                 foreach (Control c in Controls)
                 {
                     Button b = (Button)c;
@@ -125,11 +113,6 @@ namespace TicTacToe
                 }
             }
             catch { }
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
     }
 

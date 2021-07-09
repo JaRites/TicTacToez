@@ -6,8 +6,8 @@
       "version": "3.1.0"
     },
     "additionalProbingPaths": [
-      "C:\\Users\\Lenovo Y430P\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Lenovo Y430P\\.nuget\\packages"
+      "C:\\Users\\rites\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rites\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
